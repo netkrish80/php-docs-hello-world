@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webappkvk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49C0F924E6CA4046BB510F00B723A754 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42786492033D43C48C6CC93A58D2FF75 }}
           package: .
